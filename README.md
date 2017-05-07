@@ -23,5 +23,8 @@ npm run e2e
 # run all tests
 npm test
 ```
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 404440b235bb00a9db23de82db4b2661f2fde939
