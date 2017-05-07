@@ -24,7 +24,4 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# test
->>>>>>> a0e62681af49f9aef3a34b0b63fe7f473f342db2
+
