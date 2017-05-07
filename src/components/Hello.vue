@@ -5,9 +5,9 @@
   <nav>
     <ul>
       <li><a href="">首页</a></li>
-      <li><a href="">首页</a></li>
-      <li><a href="">首页</a></li>
-      <li><a href="">首页</a></li>
+      <li><a href="">个人信息</a></li>
+      <li><a href="">技术栈</a></li>
+      <li><a href="">工作经历</a></li>
     </ul>
   </nav>
 </header>
