@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# vuetset
-
-> test
 
 ## Build Setup
 
